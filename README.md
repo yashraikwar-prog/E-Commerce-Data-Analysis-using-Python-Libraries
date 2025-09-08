@@ -5,6 +5,13 @@
 This project contains an **E-commerce Orders Dataset** with details such as order ID, customer ID, gender, age, purchase date, sales channel, product information, amount, and shipping details.
 The dataset can be used for **data cleaning, visualization, and analysis** to extract valuable business insights.
 
+## Visualizations  
+
+- [Order Status Distribution](https://github.com/yashraikwar-prog/E-Commerce-Data-Analysis-using-Python-Libraries/blob/main/Order%20Status%20Distribution.png)  
+- [Top 5 Cities by Sales](https://github.com/yashraikwar-prog/E-Commerce-Data-Analysis-using-Python-Libraries/blob/main/Top%205%20Cities%20By%20Sales.png)  
+- [Top 5 States by Sales](https://github.com/yashraikwar-prog/E-Commerce-Data-Analysis-using-Python-Libraries/blob/main/Top%205%20States%20by%20Sales.png)  
+- [Top Sales by Age Group](https://github.com/yashraikwar-prog/E-Commerce-Data-Analysis-using-Python-Libraries/blob/main/Top%20Sales%20By%20Age%20Group.png)  
+- [Total Sales and Orders by Gender](https://github.com/yashraikwar-prog/E-Commerce-Data-Analysis-using-Python-Libraries/blob/main/Total%20Sales%20and%20Orders%20By%20Gender.png)  
 
 ## 📂 Dataset Information
 
